@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Smartphone",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 299.99,
+    "description": "High-quality electronic device."
+  },
+  {
+    "name": "Tablet",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 399.99,
+    "description": "Latest model with advanced features."
+  },
+  {
+    "name": "Laptop",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Electronics",
+    "brand": "Apple",
+    "price": 499.99,
+    "description": "Top-of-the-line electronics."
+  },
+  {
+    "name": "T-Shirt",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 59.99,
+    "description": "Stylish and comfortable apparel."
+  },
+  {
+    "name": "Jeans",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 79.99,
+    "description": "Fashionable and trendy clothing."
+  },
+  {
+    "name": "Jacket",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Clothing",
+    "brand": "Nike",
+    "price": 89.99,
+    "description": "High-quality fabric and design."
+  },
+  {
+    "name": "Vacuum",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "HomeGoods",
+    "brand": "Dyson",
+    "price": 149.99,
+    "description": "Essential home appliances."
+  },
+  {
+    "name": "Toaster",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "HomeGoods",
+    "brand": "Dyson",
+    "price": 199.99,
+    "description": "Durable and reliable home products."
+  },
+  {
+    "name": "Blender",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "HomeGoods",
+    "brand": "Dyson",
+    "price": 249.99,
+    "description": "Modern and stylish home items."
+  },
+  {
+    "name": "Football",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Sports",
+    "brand": "Nike",
+    "price": 99.99,
+    "description": "High-performance sports equipment."
+  },
+  {
+    "name": "Dumbbells",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Sports",
+    "brand": "Nike",
+    "price": 119.99,
+    "description": "Durable and reliable sports gear."
+  },
+  {
+    "name": "TennisRacket",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Sports",
+    "brand": "Nike",
+    "price": 139.99,
+    "description": "Top-quality sports accessories."
+  },
+  {
+    "name": "Novel",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Books",
+    "brand": "HarperCollins",
+    "price": 14.99,
+    "description": "Bestselling novels and non-fiction."
+  },
+  {
+    "name": "Biography",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Books",
+    "brand": "HarperCollins",
+    "price": 18.99,
+    "description": "Wide selection of popular titles."
+  },
+  {
+    "name": "Cookbook",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Books",
+    "brand": "HarperCollins",
+    "price": 22.99,
+    "description": "Diverse range of literary genres."
+  },
+  {
+    "name": "LEGOSet",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Toys",
+    "brand": "LEGO",
+    "price": 29.99,
+    "description": "Creative building sets for all ages."
+  },
+  {
+    "name": "BoardGame",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Toys",
+    "brand": "LEGO",
+    "price": 34.99,
+    "description": "Popular toys and games for kids."
+  },
+  {
+    "name": "ActionFigure",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Toys",
+    "brand": "LEGO",
+    "price": 39.99,
+    "description": "Classic toys and interactive games."
+  },
+  {
+    "name": "FaceCream",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Beauty",
+    "brand": "L'Oreal",
+    "price": 24.99,
+    "description": "High-quality skincare and cosmetics."
+  },
+  {
+    "name": "Mascara",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Beauty",
+    "brand": "L'Oreal",
+    "price": 19.99,
+    "description": "Trendy and reliable beauty products."
+  },
+  {
+    "name": "Foundation",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Beauty",
+    "brand": "L'Oreal",
+    "price": 54.99,
+    "description": "Luxurious skincare and makeup."
+  },
+  {
+    "name": "Mixer",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Kitchen",
+    "brand": "KitchenAid",
+    "price": 229.99,
+    "description": "Durable kitchen appliances."
+  },
+  {
+    "name": "Grinder",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Kitchen",
+    "brand": "KitchenAid",
+    "price": 179.99,
+    "description": "High-quality kitchen tools and gadgets."
+  },
+  {
+    "name": "CoffeeMaker",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Kitchen",
+    "brand": "KitchenAid",
+    "price": 199.99,
+    "description": "Innovative and reliable kitchen solutions."
+  },
+  {
+    "name": "Sofa",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Furniture",
+    "brand": "IKEA",
+    "price": 399.99,
+    "description": "Affordable and stylish furniture."
+  },
+  {
+    "name": "DiningTable",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Furniture",
+    "brand": "IKEA",
+    "price": 499.99,
+    "description": "Wide selection of home furnishings."
+  },
+  {
+    "name": "BedFrame",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Furniture",
+    "brand": "IKEA",
+    "price": 549.99,
+    "description": "Quality furniture for all rooms."
+  },
+  {
+    "name": "Necklace",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Jewelry",
+    "brand": "Tiffany",
+    "price": 799.99,
+    "description": "Luxurious and elegant jewelry pieces."
+  },
+  {
+    "name": "Ring",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Jewelry",
+    "brand": "Tiffany",
+    "price": 899.99,
+    "description": "High-end and classic jewelry designs."
+  },
+  {
+    "name": "Bracelet",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Jewelry",
+    "brand": "Tiffany",
+    "price": 129.99,
+    "description": "Trendy and customizable jewelry."
+  },
+  {
+    "name": "Tent",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Outdoor",
+    "brand": "Coleman",
+    "price": 89.99,
+    "description": "Reliable outdoor gear and equipment."
+  },
+  {
+    "name": "SleepingBag",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Outdoor",
+    "brand": "Coleman",
+    "price": 119.99,
+    "description": "Comfortable and durable sleeping bags."
+  },
+  {
+    "name": "HikingBoots",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Outdoor",
+    "brand": "Coleman",
+    "price": 139.99,
+    "description": "High-quality hiking footwear."
+  },
+  {
+    "name": "Backpack",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Outdoor",
+    "brand": "Coleman",
+    "price": 159.99,
+    "description": "Durable and spacious backpacks."
+  },
+  {
+    "name": "Sunglasses",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Accessories",
+    "brand": "RayBan",
+    "price": 89.99,
+    "description": "Stylish and protective eyewear."
+  },
+  {
+    "name": "Watch",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Accessories",
+    "brand": "RayBan",
+    "price": 129.99,
+    "description": "Reliable and fashionable watches."
+  },
+  {
+    "name": "Wallet",
+    "photoUrl": "https://img.freepik.com/free-photo/product-backdrop-cinematic-smoke-realistic-design_53876-128288.jpg?t=st=1724960649~exp=1724964249~hmac=4d6beb983c5db861ae0e5419dc99067e2a995677da1afd4262b764a476fe697b&w=2000",
+    "category": "Accessories",
+    "brand": "RayBan",
+    "price": 199.99,
+    "description": "Luxurious and high-quality wallets."
+  }
+]
