@@ -33,7 +33,7 @@ const dbConnect = async () => {
 dbConnect();
 
 app.get("/api/products", async (req, res) => {
-  const { name, page = 1, limit = 9, sort, category, brand } = req.query;
+  const { name, sort, category, brand } = req.query;
 
   const query = {};
 
@@ -42,7 +42,7 @@ app.get("/api/products", async (req, res) => {
   }
 
   if (category) {
-    query.category = category;
+    query.category = { $regex: category, $options: "i" };
   }
 
   if (brand) {
@@ -56,11 +56,9 @@ app.get("/api/products", async (req, res) => {
   const products = await productsCollection
     .find(query)
     .sort({ price: sortOption })
-    .skip((Number(page) - 1) * Number(limit))
-    .limit(Number(limit))
     .toArray();
 
-  res.json({ total, products });
+  res.json(products);
 });
 
 app.get("/", (req, res) => {
